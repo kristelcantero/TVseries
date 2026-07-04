@@ -29,7 +29,7 @@
         box-shadow: 0 0 0 0.25rem rgba(229, 9, 20, 0.25) !important; /* Brillo rojo al enfocar */
     }
     .btn-netflix {
-        background-color: #E50914; /* El rojo oficial de Netflix */
+        background-color: #E50914; /* El rojo oficial o parecido Netflix */
         color: white;
         font-weight: bold;
     }
